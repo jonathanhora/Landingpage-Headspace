@@ -2,7 +2,7 @@
  
 Landing page responsiva baseada no projeto **Intuitive Start – Curso**, com design desenvolvido no **Figma** e implementação feita com o **Claude** (Anthropic).
  
-- **Design (Figma):** https://www.figma.com/design/DhNy0gCwPrsipuPZyK86ce/Intuitive-Start---Curso?node-id=84-789
+- **Design (Figma).
 - **Frame de referência da estrutura:** `headspace`
 - **Frames do design system:** `tipografia`, `paleta`, `Assets` e `btns`
 > Projeto com fins de estudo. A marca, os textos e as imagens pertencem à Headspace Inc.
